@@ -1,4 +1,4 @@
-# Resume_Parser Using Natural Language Processing
+# Resume_Parser Using Natural Language Processing (Python)
 This is small resume parser project, It is rest service that can be used to parse resume.
 It is created using :- 
 1.) flask
@@ -30,3 +30,12 @@ It is created using :-
 		|__requirements.txt (includes all dependencies required to run service
 		|
 		|__README.md
+
+- running service
+
+	1.) python3 manage.py run
+
+- References
+https://www.omkarpathak.in/2018/12/18/writing-your-own-resume-parser/
+
+
